@@ -6,8 +6,8 @@ pingtest.s is an executable bash script that enables users to sweep a network to
 
 To execute script download/pull, open command prompt, locate file and execute as follows:
 ```bash
-chmod +x pingtest.s
-./pingtest.s
+chmod +x pingtest.sh
+./pingtest.sh
 ```
 # Processes
 basic-shell-utl.sh is an executable bash script with simple process management, enabling a user to see processes from other users and perform kill, etc on those processes.
