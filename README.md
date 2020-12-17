@@ -7,5 +7,5 @@ pingtest.s is an executable bash script that enables users to sweep a network to
 To execute script download/pull, open command prompt, locate file and execute as follows:
 ```bash
 chmod +x pingtest.s
-pingtest.s
+./pingtest.s
 ```
